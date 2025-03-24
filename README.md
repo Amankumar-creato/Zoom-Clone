@@ -8,7 +8,7 @@ A Web video conferencing platform similar to ZOOM.
 
 ## Authors 🧑‍💻
 
-- [@ArnabBCA](https://github.com/ArnabBCA)
+- Aman Kumar
 
 ## Tech Stack ⚙️
 
@@ -18,11 +18,9 @@ Frontend Technologies : Next.js, Tailwindcss, Shadcn, TypeScript <br /> Authenti
 
 Clone the project
 
-```bash
-git clone https://github.com/ArnabBCA/Zoom-Clone
-```
 
-Go to the project directory
+
+
 
 Install dependencies
 
